@@ -1,7 +1,7 @@
 ### Hi there, welcome to my github profile 👋
 
 ### About me
-I am a motivated developer with good English communication skills, honed during a three-month internship at AmbrosTechnology in Ho Chi Minh City, Vietnam. I have experience in analyzing data using Python, SQL, and tool likePrometheus. I also manage my own projects, update the post-match data of my old high school's esportstournament, and participate two projects at Hotelli Waltikka and Sampola.
+I am a motivated developer with good English communication skills, honed during a three-month internship at Ambros Technology in Ho Chi Minh City, Vietnam. I have experience in analyzing data using Python, SQL, and tool like Prometheus. I also manage my own projects, update the post-match data of my old high school's esports tournament, and participate two projects at Hotelli Waltikka and Sampola.
 <!--
 **DongChuyenNghiep/DongChuyenNghiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
